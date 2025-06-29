@@ -9,19 +9,42 @@
 }
 
 body {
-    background-color: #68cfee;
-    color: #171c3a;
+    background-color: #2d303b;
+    color: #9ee1f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: #9ee1f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
 }
 
 .sidebar {
     height: 100%;
-    width: 500;
+    width: 13%;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
     overflow-x: hidden;
-    padding-top: 40px;
-    transition: 0.5s; 
+    padding-top: 2.8%;
+    background-color: rgb(67, 65, 78);
+}
+
+.mainbody {
+    padding-left: 13%;
+    text-align: center;
+}
+
+.btext {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.addSpace {
+    padding-bottom: 14%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
 }
