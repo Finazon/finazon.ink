@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Splatoon1;
+    src: url(assets/fonts/Splatoon1.otf);
+}
+
+@font-face {
+    font-family: Splatoon2;
+    src: url(assets/fonts/Splatoon2.otf);
+}
+
+body {
+    background-color: #68cfee;
+    color: #171c3a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
