@@ -12,4 +12,16 @@ body {
     background-color: #68cfee;
     color: #171c3a;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+}
+
+.sidebar {
+    height: 100%;
+    width: 500;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 40px;
+    transition: 0.5s; 
+}
