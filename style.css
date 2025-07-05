@@ -56,6 +56,13 @@ a {
     font-weight: bold;
 }
 
+.addSpace3 {
+    padding-bottom: 8%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
 .pov {
     padding-bottom: 2%;
     text-align: center;
