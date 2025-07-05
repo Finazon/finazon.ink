@@ -48,3 +48,13 @@ a {
     font-size: 24px;
     font-weight: bold;
 }
+
+.pov {
+    padding-bottom: 2%;
+    text-align: center;
+}
+
+.pov a{
+    text-decoration: underline;
+    font-size: 18px;
+}
