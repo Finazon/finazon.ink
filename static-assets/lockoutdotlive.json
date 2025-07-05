@@ -1,0 +1,1632 @@
+{
+  "version": "1.0.0",
+  "game": "Splatoon Three Alterna",
+  "objectives": [
+    {
+      "goal": "Beat ALL of Deep Cut",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "Not Fresh and On the Hook",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Every Level and Boss pre R-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "No After Alterna, Rocket, or Grizz Required",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete 1 Alterna Log",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "other"
+      ],
+      "line_categories": [],
+      "tooltip": "History Lesson!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Have All Decorations from {{X}} Site(s)",
+      "range": [
+        1,
+        2
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "other"
+      ],
+      "line_categories": [],
+      "tooltip": "Nice Locker",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Enter Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "other"
+      ],
+      "line_categories": [],
+      "tooltip": "World Traveller",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock {{X}} Upgrade Points",
+      "range": [
+        10,
+        20,
+        30,
+        40
+      ],
+      "individual_limit": 1,
+      "board_categories": [
+        "hold"
+      ],
+      "line_categories": [],
+      "tooltip": "Why not upgrade",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Have {{X}} Eggs at Once",
+      "range": [
+        10000,
+        15000,
+        20000
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "hold"
+      ],
+      "line_categories": [],
+      "tooltip": "Hungry much",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Have {{X}} Sardiniums at Once",
+      "range": [
+        6,
+        8,
+        10,
+        4
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "hold"
+      ],
+      "line_categories": [],
+      "tooltip": "Fishy...",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 1",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "10 Levels",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 2",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "8 Levels + Boss",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 3",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "7 Levels",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 4",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "12 Levels + Boss",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 5",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "13 Levels",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat every level in Site 6",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "12 Levels + Boss",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all levels using a special (no Zipcaster)",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "2-05, 5-08, 6-10, 6-12",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Levels using Sloshing Machine",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "4-05, 5-04, 6-08",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Levels using Nautilus 47",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "2-04, 4-01, 4-06",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Levels using Tri-Stringer",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "1-09, 4-04, 5-04, 5-07, 5-10, 6-08",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Zipcaster Levels",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "1-06, 4-05, 5-06, 5-11",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Levels using Brellas",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "1-02, 1-03, 5-03, 5-09",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete all Levels using Octobrush",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "2-03, 4-03, 4-12",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-01 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-01, 2-01, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-02 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-02, 2-02, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-03 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-03, 2-03, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-04 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-04, 2-04, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-05 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-05, 2-05, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-06 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-06, 2-06, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete X-07 Levels in Every Site",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "levelsets"
+      ],
+      "line_categories": [],
+      "tooltip": "EX 1-07, 2-07, etc",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Upgrade Little Buddy",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "he is enough",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Upgrade the Heroshot {{X}} Time(s)",
+      "range": [
+        1,
+        2
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "A Stronger Weapom Never Hurts",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock Burst Bombs OR Curling Bombs",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "A Choice for the Centries",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Sensor",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "idk what this does tbh",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock Splat Bombs",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "Kaboom",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock Ninja Squid",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "Sneaky",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Upgrade Ink Resistance {{X}} Time(s)",
+      "range": [
+        1,
+        2
+      ],
+      "individual_limit": 2,
+      "board_categories": [
+        "tree"
+      ],
+      "line_categories": [],
+      "tooltip": "No more damage in ink!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Shipping Container Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Shippy Shippy",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 3",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 3 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 8-11",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 3 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Car Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Vroom vroom",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 4",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 4 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 12-15",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 4 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4clct"
+      ],
+      "line_categories": [],
+      "tooltip": "6 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Fire Hydrant Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Is water wet",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 5",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 5 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 16-20",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 5 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Umbrella Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6clct"
+      ],
+      "line_categories": [],
+      "tooltip": "dont give this to term",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 6",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 6 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 21-24",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 6 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6clct"
+      ],
+      "line_categories": [],
+      "tooltip": "6 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 2",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 2 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 5-7",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 2 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2clct"
+      ],
+      "line_categories": [],
+      "tooltip": "6 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Thinker (Ancient Pose) Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2clct"
+      ],
+      "line_categories": [],
+      "tooltip": "hmmmmmm",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Unlock the Moai Decoration",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Bang Bing",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 1 Sunken Scrolls",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1clct"
+      ],
+      "line_categories": [],
+      "tooltip": "Scrolls 1-4",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get the Site 1 Sardiniums",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Sardiniums",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Get all golden discs in Site 1",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1clct"
+      ],
+      "line_categories": [],
+      "tooltip": "3 Discs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level R-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "Alterna Space Center Entrance",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level R-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "Alterna Space Center Hangar",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level R-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "Alterna Space Center Lift",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level R-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "The Spirit Lifter",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Return of the Mammalians",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "Defeat Mr. Grizz",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat DJ Octavio",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "boss"
+      ],
+      "line_categories": [],
+      "tooltip": "The Crater",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat Frye",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "boss"
+      ],
+      "line_categories": [],
+      "tooltip": "Complete Level 2-B",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat Shiver",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "boss"
+      ],
+      "line_categories": [],
+      "tooltip": "Complete Level 4-B",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Beat Big Man",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "boss"
+      ],
+      "line_categories": [],
+      "tooltip": "Complete Level 6-B",
+      "icons": [],
+      "overlay_icon": true,
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Bet You Mist Us!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Octarian Heights",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Torture Tour",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Conserve Ink - Splat Sustainably",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "The Enemy Ink Is Lava!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Keep It Rolling",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "That Sinking Feeling",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-08",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Breathe In, Breathe Out",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-09",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Dive and Dash",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-10",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Mission: Fly-Fishin'",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-11",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Don't Tease with the Keys",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 6-12",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site6level"
+      ],
+      "line_categories": [],
+      "tooltip": "Enter the Stamp Gauntlet",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Trouble Round Every Corner",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "The Upside to Enemy Backsides",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Uh-Oh! Too Many Snipers!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Barriers! They've Got You Covered",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "A Compulsive Collector's Paradise",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Zipping over the Neighborhood",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "One-Way Ride through Target Town",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-08",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Making Waves with Splashdowns",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-09",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Low Viz, High Risk",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-10",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Shooter on Rails",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-11",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Simply Ziptastic!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-12",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "You'll Go Far If You Shoot Far",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 5-13",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site5level"
+      ],
+      "line_categories": [],
+      "tooltip": "Learn to Reflect, and This One Is in the Bank",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Propellered to Greatness",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Octohoppers Don't Have a Sense of Humor (and They Hate Puns)!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Let's Put a Pin in That",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Splash the Block Party",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Amusing a Bemused Muse",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Those Aren't Birds",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Charge Now, Splat Later",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-08",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Easy Ride, Tricky Targets",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-09",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Flying Worst Class",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-10",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Ink Fast, Hotshot",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-11",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "Stamp 'Em Out",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 4-12",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site4level"
+      ],
+      "line_categories": [],
+      "tooltip": "The Path to Perfect Penmanship",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Climbing the Corporate Splatter",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "They Said We'd Have Flying Cars, and We Do! Kinda!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Ink Wheels - Experience Tomorrow's Technology Today!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Try Curling! Alterna's 11th Most Popular Athleisure Activity!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Conveyor-Belt Tightening",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Time Trial and Errors",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 3-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site3level"
+      ],
+      "line_categories": [],
+      "tooltip": "Rail Pass",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Twirling, Swirling, Whirling",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Absorbency and You",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Soak It to Me!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Splitting Crosshairs",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Tread Heavily",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Getting Lost in Three Easy Steps",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "The Ink-Conservation Project",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 2-08",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site2level"
+      ],
+      "line_categories": [],
+      "tooltip": "Switching Things Up",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-10",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Deadly Dance Hall - Jump, Jump!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-03",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Splat You on the Flip Side",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-02",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Octopods at Rest Tend to FLIP OUT!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-05",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Relic Restoration",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-06",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Zip, Splat, and Jump",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-07",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Become One with Your Smallfry",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-08",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "What Caused the Bing Bang, YOU!",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-09",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "The String's the Thing",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-01",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Get to Know Alterna, Your Only Choice",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 1-04",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "site1level"
+      ],
+      "line_categories": [],
+      "tooltip": "Doors, Doors, Doors! And More! (Doors)",
+      "icons": [],
+      "text_color": "#ffffff"
+    },
+    {
+      "goal": "Complete Level 0-00",
+      "range": [],
+      "individual_limit": 1,
+      "board_categories": [
+        "long"
+      ],
+      "line_categories": [],
+      "tooltip": "After Alterna",
+      "icons": [],
+      "shiny": false,
+      "text_color": "#ffffff"
+    }
+  ],
+  "limits": {
+    "board": {
+      "site1level": 18,
+      "site2level": 18,
+      "site3level": 18,
+      "site4level": 18,
+      "site5level": 18,
+      "site6level": 18,
+      "boss": 4,
+      "site1clct": 5,
+      "site2clct": 5,
+      "site3clct": 5,
+      "site4clct": 5,
+      "site5clct": 5,
+      "site6clct": 5,
+      "long": 8,
+      "tree": 10,
+      "hold": 10,
+      "levelsets": 15,
+      "other": 4
+    },
+    "line": {}
+  }
+}
