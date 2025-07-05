@@ -28,7 +28,7 @@ a {
     top: 0;
     left: 0;
     overflow-x: hidden;
-    padding-top: 2.7%;
+    padding-top: 1.6%;
     background-color: rgb(67, 65, 78);
 }
 
@@ -43,7 +43,14 @@ a {
 }
 
 .addSpace {
-    padding-bottom: 14%;
+    padding-bottom: 11%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.addSpace2 {
+    padding-bottom: 6%;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
