@@ -73,8 +73,6 @@ a:hover {
 .bingoimg {
     width: 60%;
     height: auto;
-    position: initial;
-    transition: 500ms;
 }
 
 .largeimg {
