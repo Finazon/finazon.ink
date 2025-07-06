@@ -18,6 +18,11 @@ a {
     color: #9ee1f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
+    transition: 400ms;
+}
+
+a:hover {
+    color: #7cf5a0;
 }
 
 .sidebar {
@@ -61,6 +66,34 @@ a {
     text-align: center;
     font-size: 22px;
     font-weight: bold;
+}
+
+/* Bingo Page */
+
+.bingoimg {
+    width: 60%;
+    height: auto;
+    position: initial;
+    transition: 500ms;
+}
+
+.largeimg {
+    position: fixed;
+    height: 80%;
+    width: auto;
+    top: 10%;
+    left: 50%;
+    z-index: 2;
+    transform: translateX(-50%)
+}
+
+.largediv{
+    position: fixed;
+    top: 0.5%;
+    left: 50%;
+    z-index: 3;
+    text-align: center;
+    transform: translateX(-50%)
 }
 
 .pov {
