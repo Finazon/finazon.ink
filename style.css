@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #2d303b;
+    background-color: #28303d;
     color: #9ee1f5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -34,7 +34,7 @@ a:hover {
     left: 0;
     overflow-x: hidden;
     padding-top: 1.6%;
-    background-color: rgb(67, 65, 78);
+    background-color: rgb(64, 67, 85);
 }
 
 .mainbody {
@@ -102,4 +102,112 @@ a:hover {
 .pov a{
     text-decoration: underline;
     font-size: 18px;
+}
+
+/* Tourney (MOCKUPS) */
+
+.mainbody2 {
+    padding-left: 13%;
+}
+
+.bigboy{
+    display: inline-block;
+    width: 34%;
+}
+
+.userInfo{
+    vertical-align: top;
+    width: 90%;
+    padding-left: 7%;
+    padding-top: 7%;
+    padding-bottom: 5%;
+    text-align: center;
+    margin-top: 0;
+}
+
+.userTxt{
+    display: inline-block;
+    vertical-align: middle;
+    scale: 1.5;
+}
+
+.pfp{
+    padding-left: 10%;
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+}
+
+.rates{
+    text-align: center;
+}
+
+.stageInfo{
+    width: 65.5%;
+    height: 90vh;
+    display: inline-block;
+    padding-top: 1.5%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.prevMatches{
+    text-align: center;
+    width: 90%;
+    padding-left: 5%;
+}
+
+.stageImg{
+    width: 100%;
+    height: auto;
+}
+
+.stageHolds{
+    margin-top: 3px;
+    width: 19%;
+    display: inline-block;
+    outline: 3px solid #9ee1f5;
+}
+
+.stageTxt{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.circle {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    background-color:  #28303d;
+}
+  
+.circle-border {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: linear-gradient(270deg, #9ee1f5 50%, transparent 50%), linear-gradient(-11.052deg, #9ee1f5 50%, #28303d 50%)
+}
+
+.circle-border2 {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: linear-gradient(270deg, #9ee1f5 50%, transparent 50%), linear-gradient(-40.716deg, #9ee1f5 50%, #28303d 50%)
+}
+
+.circleTxt{
+    position: relative;
+    font-size: 30px;
+    top: 73px;
+    font-weight: bold;
+}
+
+.balls{
+    display: inline-block;
 }
